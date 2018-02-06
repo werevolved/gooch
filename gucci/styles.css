@@ -1,0 +1,40 @@
+body {
+
+	background-color: #000000;
+}
+
+.pink, .orange, .yellow, .burgundy, .purple {
+
+height: 200px;
+width: 101%;
+text-align: center;
+
+}
+
+.pink {
+
+	background-color: #C70039;
+	
+}
+
+.orange {
+
+	background-color: #FF5733;
+}
+
+.yellow {
+
+	background-color: #FFC300;
+
+}
+
+.burgundy {
+
+	background-color: #900C3F;
+}
+
+.purple {
+
+	background-color: #581845;
+}
+
